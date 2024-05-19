@@ -10,7 +10,8 @@ This repository contains my solutions to the screening test at Danphe Software L
 
 2. **Problem 2:** `problem_2.py`
     - Description: Prints numbers from 1 to 100 with specific rules (Fizz, Buzz, FizzBuzz).
-    - How to Run: ```python problem_2.py```
+    - How to Run: 
+    ```python problem_2.py```
 
 3. **Problem 3:** `problem_3.py`
     - Description: Counts the occurrence of each character in a string.
