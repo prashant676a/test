@@ -6,7 +6,7 @@ This repository contains my solutions to the screening test at Danphe Software L
 
 1. **Problem 1:** `problem_1.py`
     - Description: Finds the greatest among three numbers.
-    - How to Run: ```python problem_1.py```
+    - How to Run: ```python3 problem_1.py```
 
 2. **Problem 2:** `problem_2.py`
     - Description: Prints numbers from 1 to 100 with specific rules (Fizz, Buzz, FizzBuzz).
